@@ -4,7 +4,7 @@
 
 ## Installation
 
-<pre><code># go get github.com/anekkunti/go-gpsd</code></pre>
+<pre><code># go get github.com/anekkunt/go-gpsd</code></pre>
 
 go-gpsd has no external dependencies.
 
